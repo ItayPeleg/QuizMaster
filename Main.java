@@ -327,7 +327,7 @@ public class Main {
         questions.add(new Question("Who was the teacher of Alexander the Great?", options29, 1)); // Answer: Plato
 
         // Question 30
-        List<String> options30 = Arrays.asList("0.French", "1.Italian", "2.German");
+        List<String> options30 = Arrays.asList("0.Portuguese", "1.Italian", "2.German");
         questions.add(new Question("What is the official language of Brazil?", options30, 0)); // Answer: Portuguese
 
         return questions;
